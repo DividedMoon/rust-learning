@@ -1,2 +1,4 @@
 # rust-learning
-A repository including my rust learning roadmap
+记录我在学习rust的过程中阅读或实现的工具
+
+## DesignPattern
