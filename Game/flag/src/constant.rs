@@ -1,0 +1,1 @@
+pub const DEFAULT_DIRECTORY:&str = "./data/";
